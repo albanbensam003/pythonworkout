@@ -1,0 +1,8 @@
+FastAPI Installation
+____________________________
+
+1) Python version 3.6 above it support
+2) pip install fastapi
+3) pip install "uvicorn[standard]" --> for activate server
+
+4) uvicorn main:app --reload ==> run Application
